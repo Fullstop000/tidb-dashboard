@@ -1,6 +1,6 @@
 {
   "name": "@pingcap-incubator/statement",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "author": "pingcap-incubator",
   "repository": "",
@@ -16,7 +16,6 @@
     "start": "rollup -c -w",
     "prepare": "yarn run build"
   },
-  "dependencies": {},
   "peerDependencies": {
     "@baurine/grafana-value-formats": "^0.1.1",
     "antd": "^3.26.5",
